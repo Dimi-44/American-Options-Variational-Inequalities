@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+QuantLib
+torch
+numba    # optional: speeds up projected SOR
+pytest   # tests
