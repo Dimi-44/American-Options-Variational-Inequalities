@@ -173,7 +173,7 @@ So the $d$-dimensional problem has an **exact one-dimensional equivalent**: an A
 
 ## Relation to the June 2025 submission
 
-The thesis PDF in [`thesis/`](thesis/) is a corrected edition of the theoretical part of the thesis submitted in June 2025.
+The thesis PDF in [`thesis/`](thesis/) is an updated edition of the theoretical part of the thesis submitted in June 2025.
 * **This repository replaces** the results chapter and the conclusions of the original submission. The numbers above are the results that go with the thesis.
 * **The PINN loss of Chapter 5 was revised.** The original weighted loss is kept here as a baseline, so its effect can be checked directly (Results, section 2).
 
